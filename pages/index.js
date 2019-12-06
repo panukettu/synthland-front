@@ -11,7 +11,7 @@ const Home = () => (
 
     <Nav />
 
-    <h1>synth.land dev asdf</h1>
+    <h1>synth.land dev asdf1234</h1>
 
     <style jsx>{`
      .home {
